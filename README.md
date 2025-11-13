@@ -29,11 +29,11 @@ El objetivo del análisis fue evaluar la capacidad predictiva de distintos méto
 ### Gráficos descriptivos
 Grupos de estudio por edad y sexo
 <p align="center">
-  <img src="D1.png" width="600">
+  <img src="images/D1.png" width="600">
 </p>
 Individuos sanos y no sanos.
 <p align="center">
-  <img src="D2.png" width="600">
+  <img src="images/D2.png" width="600">
 </p>
 
 ---
@@ -41,15 +41,15 @@ Individuos sanos y no sanos.
 ### Análisis de Componentes Principales (PCA)
 Grupos de estudio por edad y sexo
 <p align="center">
-  <img src="PCA1.png" width="600">
-  <img src="PCA2.png" width="600">
-  <img src="PCA3.png" width="600">
+  <img src="images/PCA1.png" width="600">
+  <img src="images/PCA2.png" width="600">
+  <img src="images/PCA3.png" width="600">
  </p>
  Individuos sanos y no sanos.
 <p align="center">
-  <img src="PCA4.png" width="600">
-  <img src="PCA5.png" width="600">
-  <img src="PCA6.png" width="600">
+  <img src="images/PCA4.png" width="600">
+  <img src="images/PCA5.png" width="600">
+  <img src="images/PCA6.png" width="600">
 </p>
 
 ---
@@ -57,16 +57,16 @@ Grupos de estudio por edad y sexo
 ### QDA
 - Evaluación de la capacidad predictiva con QDA e Identificación de falsos positivos y falsos negativos  
 <p align="center">
-  <img src="REP1.png" width="600">
-  <img src="REP2.png" width="600">
-  <img src="REP3.png" width="600">
+  <img src="images/REP1.png" width="600">
+  <img src="images/REP2.png" width="600">
+  <img src="images/REP3.png" width="600">
  </p>
  
 ---
  
 ### Logístico con Curva ROC y puntos óptimos mediante diferentes índices.
 <p align="center">
-  <img src="ROC.png" width="600">
+  <img src="images/ROC.png" width="600">
  </p>
 
 ---
