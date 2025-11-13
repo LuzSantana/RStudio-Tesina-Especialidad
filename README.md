@@ -61,12 +61,13 @@ Grupos de estudio por edad y sexo
   <img src="REP3.png" width="600">
  </p>
  
- ---
+---
  
 ### Logístico con Curva ROC y puntos óptimos mediante diferentes índices.
 <p align="center">
   <img src="ROC.png" width="600">
  </p>
+
 ---
 
 ## 🎓 Créditos
