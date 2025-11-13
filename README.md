@@ -1,7 +1,7 @@
 # Tesina de Especialidad en Estadística Aplicada (IIMAS - UNAM)
 
 ## 📘 Descripción
-Proyecto desarrollado en RStudio como parte de Tesina de la Especialidad en Estadística Aplicada.  
+Se presenta parte del proyecto desarrollado en RStudio como parte de la Tesina de la Especialidad en Estadística Aplicada de la autora.
 El objetivo del análisis fue evaluar la capacidad predictiva de distintos métodos multivariados para distinguir entre individuos clasificados como *sanos* y *no sanos*, con base en variables fisiológicas, antropométricas y de estilo de vida.
 🔗 [Ver código completo en R](https://github.com/LuzSantana/RStudio-Tesina-Especialidad/blob/main/C%C3%B3digo%20Tesina%20Especialidad%20Portafolio%20Luz%20Santana.R)
 
